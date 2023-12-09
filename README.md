@@ -1,2 +1,2 @@
-<h1>Is MrT1.</h1>
-<h5>or MrT1_; or MrT1011; or whatever the site lets me use...</h5>
+<h1>Ello :) I'm MrT1</h1>
+<p>I mostly develop kits on Minecraft, and I put most of them here.</p>
